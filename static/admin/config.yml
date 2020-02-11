@@ -2,7 +2,7 @@ backend:
   name: github
   repo: alub-ts/blog-test
 
-media_folder: content/assets
+media_folder: content/blog/assets
 public_folder: assets
 
 collections:

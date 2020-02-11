@@ -12,7 +12,9 @@ module.exports = {
     },
   },
   plugins: [
-    `gatbsy-plugin-netlify-cms`,
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -23,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/assets`,
+        path: `${__dirname}/content/blog/assets`,
         name: `assets`,
       },
     },
@@ -93,7 +95,6 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
       },
     },
     `gatsby-plugin-netlify`,

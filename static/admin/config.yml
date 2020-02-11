@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: alub-ts/blog-cms
+  repo: alub-ts/blog-test
 
 media_folder: content/assets
 public_folder: assets

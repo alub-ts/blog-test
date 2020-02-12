@@ -9,7 +9,7 @@ thumbnail: ./assets/alvintext.png
 title: Introducing Terminal V2
 ---
 
-Today, we’re excited to launch a new version of Terminal - the easiest way to build, deploy, and host websites & apps on IPFS. From local development to global deployment, Terminal provides one seamless workflow with everything you need to build fast, modern sites & web apps hosted on IPFS. All you have to do is link your github, and within a few clicks you will have your first site deployed to IPFS (and everytime after that it will happen automatically :))
+Today, we’re excited to launch a new version of Terminal - the easiest way to build, deploy, and host websites & apps on IPFS. From local development to global deployment, Terminal provides one seamless workflow with everything you need to build fast, modern sites & web apps hosted on IPFS. All you have to do is link your github, and within a few clicks you will have your first site deployed to IPFS (and everytime after that it will happen automatically :smile:)
 
 Starting today, Terminal V2 is in a closed beta. If you’ve signed up for Terminal previously, you can login and start using the new product right away. If you haven’t signed up for Terminal before, you can join the waitlist, and over the next few weeks we will be letting in a few new users each day. After a few weeks we will fully open it up to the public.
 
@@ -52,6 +52,6 @@ Join our community [Slack](https://join.slack.com/t/terminal-public/shared_invit
 
 Check out [Tech Docs](https://epic-jepsen-3e19bc.netlify.com/)
 
-PS. This blog is hosted on IPFS using Terminal :)
+PS. This blog is hosted on IPFS using Terminal :smile:
 
 - Harrison

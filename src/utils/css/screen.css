@@ -432,7 +432,7 @@ body {
   bottom: 0;
   left: 0;
   color: var(--color-base);
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(63, 55, 55, 0.1);
   opacity: 1;
   transition: opacity 0.5s cubic-bezier(0.33, 0, 0.2, 1);
 }
@@ -556,6 +556,8 @@ body {
   max-width: 720px;
   margin: 0 auto;
   padding: 6vw 0;
+  background: rgba(0, 0, 0, 0.2);
+  border: 10vw powderblue;
 }
 
 .post-content-header {
@@ -649,8 +651,8 @@ body {
   font-size: 0.8em;
   line-height: 1em;
   font-weight: 400 !important;
-  /* background: var(--color-bg); */
-  background: var(--color-bg-dark) !important;
+  background: var(--color-bg);
+  /* background: var(--color-bg-dark) !important; */
   border-radius: 3px !important;
 }
 

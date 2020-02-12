@@ -5,7 +5,7 @@ description: An overview of the newest Terminal projects and roadmap
 tags:
   - Terminal
   - IPFS
-thumbnail: ./assets/alvin.jpg
+thumbnail: ./assets/alvintext.png
 title: Introducing Terminal V2
 ---
 
@@ -46,9 +46,11 @@ A lot of the inspiration for Terminal V2 comes from the low code movement that c
 
 We’re super excited to embark on this new journey and to help bring the next million devs into the Web 3 space. We’d love to invite you all into our community to try out the new product and get your feedback. And if you feel there are opportunities to collaborate with us please reach out, we’d be happy to chat!
 
-Sign up for the Beta
-Join our community Slack
-Check out Tech Docs
+Sign up for the [Beta](https://sites.terminal.co)
+
+Join our community [Slack](https://join.slack.com/t/terminal-public/shared_invite/enQtOTM1MjQ3NTExMDU3LTNkYjU1ZGJhZGUyYjgwN2I3OThjY2U5OThlMGY2MGY0OGYxMDI1OWIwMTMwYzViZGY4ZGU0NDA0YmY4ZjVhOTg)
+
+Check out [Tech Docs](https://epic-jepsen-3e19bc.netlify.com/)
 
 PS. This blog is hosted on IPFS using Terminal :)
 

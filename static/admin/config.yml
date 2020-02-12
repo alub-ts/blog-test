@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: alub-ts/terminal-blog
+  repo: alub-ts/blog-test
 
 media_folder: content/blog/assets
 public_folder: assets

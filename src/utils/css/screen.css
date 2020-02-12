@@ -68,6 +68,7 @@ body {
   max-width: 70%;
   margin: auto;
   text-align: center;
+  color: #fff;
 }
 
 .error-head {
@@ -98,23 +99,25 @@ body {
 .page-head-title {
   margin: 0;
   font-size: 4.2rem;
-  color: var(--color-base);
+  color: #fff;
 }
 @media (max-width: 500px) {
   .page-head-title {
     font-size: 2rem;
+    color: #fff;
   }
 }
 
 .page-head-description {
   margin: 0 0 1.6vw;
-  color: color(var(--color-border) l(-20%));
+  color: #fff;
   font-size: 2.2rem;
   line-height: 1.35em;
 }
 @media (max-width: 500px) {
   .page-head-description {
     font-size: 1.6rem;
+    color: #fff;
   }
 }
 
@@ -172,7 +175,7 @@ body {
   display: block;
   margin: 0;
   padding: 10px 12px;
-  color: var(--color-base);
+  color: #fff;
   font-weight: 600;
   opacity: 0.4;
 }
@@ -558,6 +561,7 @@ body {
   padding: 6vw 0;
   background: rgba(0, 0, 0, 0.2);
   border: 10vw powderblue;
+  color: #999999;
 }
 
 .post-content-header {
@@ -599,6 +603,7 @@ body {
 .post-content-body {
   font-size: 1.9rem;
   line-height: 1.65em;
+  margin: 3vw 3vw;
 }
 @media (max-width: 500px) {
   .post-content-body {

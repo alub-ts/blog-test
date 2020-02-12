@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 const Layout = props => {
   const { title, children } = props
   const [toggleNav, setToggleNav] = React.useState(false)
+  const logo = require("./images/text-white-face-black-horizontal.png")
   return (
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       <header className="site-head">
@@ -36,11 +37,7 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
-              {/* <img
-                src="../../text-white-face-black-horizontal.jpg"
-                alt="Terminal Systems"
-              /> */}
-              Terminal Systems
+              <img alt="Terminal Systems" src={logo} />
             </Link>
           </div>
           <div className="site-head-right">

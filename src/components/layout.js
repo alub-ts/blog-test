@@ -54,20 +54,12 @@ const Layout = props => {
                 Twitter
               </a>
               <a
-                href="https://discord.gg/HdTu3pa"
-                title="Discord"
+                href="https://join.slack.com/t/terminal-public/shared_invite/enQtOTM1MjQ3NTExMDU3LTNkYjU1ZGJhZGUyYjgwN2I3OThjY2U5OThlMGY2MGY0OGYxMDI1OWIwMTMwYzViZGY4ZGU0NDA0YmY4ZjVhOTg"
+                title="Community"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Discord
-              </a>
-              <a
-                href="https://github.com/Terminal-Systems"
-                title="GitHub"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                GitHub
+                Community
               </a>
               <a
                 href="https://sites.terminal.co"

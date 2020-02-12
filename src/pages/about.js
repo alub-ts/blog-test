@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
+// eslint-diable-next-line
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"

@@ -5,7 +5,7 @@ description: An overview of the newest Terminal projects and roadmap
 tags:
   - Terminal
   - IPFS
-thumbnail: ./assets/text-white-face-black-horizontal.png
+thumbnail: ./assets/alvin.jpg
 title: Introducing Terminal V2
 ---
 

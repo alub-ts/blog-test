@@ -1,8 +1,12 @@
 ---
-path: test1/tester
-date: 2020-02-11T20:30:51.693Z
-title: more testing
-description: This is a description
+path: testingCoverPhoto
+date: 2020-02-11T20:56:16.441Z
+description: This should have a cover photo
+tags:
+  - green
+  - color
+thumbnail: ./assets/bbbb.jpg
+title: Cover Photo
 ---
 
 - IPFS hosting 101 - Can my site be deployed on IPFS? - list of things that would or not work - relative vs absolute links, frameworks, tips for deploying site on IPFS, nodeJS backend, do they need to switch something for it to be able to work

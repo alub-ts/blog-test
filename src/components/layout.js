@@ -29,17 +29,18 @@ const Layout = props => {
               {/* <li className="nav-home nav-current" role="menuitem">
                 <Link to={`/`}>Home</Link>
               </li> */}
-              <li className="nav-about" role="menuitem">
+              {/* <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
-              </li>
+              </li> */}
             </ul>
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
-              <img
+              {/* <img
                 src="../../text-white-face-black-horizontal.jpg"
                 alt="Terminal Systems"
-              />
+              /> */}
+              Terminal Systems
             </Link>
           </div>
           <div className="site-head-right">
